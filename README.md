@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello World !!
 
-<!--
-**byrang/byrang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+자바 풀스택 프로그램 수강중
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default)
+
+---
+
+## 📫 Contact
+
+tel : 
+<br>email :
+
